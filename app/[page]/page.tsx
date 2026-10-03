@@ -1,6 +1,0 @@
-import {PAGES,SITE} from "@/data/site";
-export const dynamicParams=false;export const generateStaticParams=()=>Object.keys(PAGES).map(page=>({page}));
-export function generateMetadata({params}:{params:{page:string}}){const p=PAGES[params.page];return{title:p.title,description:p.body[0].slice(0,150),alternates:{canonical:`${SITE.url}/${params.page}`}}}
-export default function P({params}:{params:{page:string}}){const p=PAGES[params.page];
-return(<div className="mx-auto max-w-3xl"><h1 className="mb-4 text-4xl font-bold">{p.title}</h1><div className="prose">{p.body.map((t,i)=><p key={i}>{t}</p>)}</div>
-{params.page==="contact"&&<form className="mt-6 grid gap-3" onSubmit={undefined}><p className="text-mute">Demo form UI: submissions are not sent.</p><label>Name<input className="block min-h-11 w-full rounded border border-line bg-card px-3"/></label><label>Email<input type="email" className="block min-h-11 w-full rounded border border-line bg-card px-3"/></label><label>Message<textarea rows={5} className="block w-full rounded border border-line bg-card px-3"/></label><button type="button" disabled className="min-h-11 rounded bg-accent text-white opacity-60">Send (not active)</button></form>}</div>)}
