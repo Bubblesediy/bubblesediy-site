@@ -1,1 +1,0 @@
-export type Article={id:string;title:string;slug:string;category:string;excerpt:string;content:string[];author:string;publishedAt:string;updatedAt:string;image:string;keywords:string[];demo:boolean;kind?:"news"|"explainer"|"update";aiAssisted?:boolean;imageCredit?:string;imageSource?:string;source?:{name:string;url:string};status?:"published"|"draft"};
