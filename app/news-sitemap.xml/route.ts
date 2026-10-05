@@ -1,4 +1,0 @@
-import {SITE} from "@/data/site";import {live,url,esc} from "@/lib/content";export const dynamic="force-static";
-// Only real (demo:false) articles from the last 2 days at build time; rebuild regularly.
-export const GET=()=>{const cut=Date.now()-2*864e5;const l=live().filter(a=>a.kind==="news"&&!a.auto&&+new Date(a.publishedAt)>cut);
-return new Response(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">${l.map(a=>`<url><loc>${SITE.url}${url(a)}</loc><news:news><news:publication><news:name>${SITE.name}</news:name><news:language>en</news:language></news:publication><news:publication_date>${a.publishedAt}</news:publication_date><news:title>${esc(a.title)}</news:title></news:news></url>`).join("")}</urlset>`,{headers:{"Content-Type":"application/xml"}})};
