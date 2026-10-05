@@ -1,25 +1,25 @@
 {
- "id": "a1791184926862859",
+ "id": "a1791185307556140",
  "title": "Trending songs today (5 Oct 2026)",
  "slug": "trending-songs-today-5-oct-2026-100507",
  "category": "Music",
- "excerpt": "The ten most-played songs on Deezer charts today.",
+ "excerpt": "The ten most-played songs on Apple Music charts today.",
  "content": [
-  "1. Dracula (with JENNIE) by Tame Impala.",
-  "2. Boston by STELLA LEFTY.",
-  "3. Choosin' Texas by Ella Langley.",
-  "4. Be Her by Ella Langley.",
-  "5. I Knew It, I Knew You (From \"Toy Story 5\") by Taylor Swift.",
-  "6. drop dead by Olivia Rodrigo.",
-  "7. Man I Need by Olivia Dean.",
-  "8. BbY WOW by KAROL G.",
-  "9. hate that i made you love me by Ariana Grande.",
-  "10. Midnight Sun by Zara Larsson.",
-  "Chart data from Deezer charts."
+  "1. SWIM by BTS.",
+  "2. Hriday Mein Jinke Sitaram by Vishal Chaturvedi.",
+  "3. शम्भु स्तुति by Ketan Kumar.",
+  "4. Parvati by Sadhu Tiwari.",
+  "5. WHERE IS MY HUSBAND! by RAYE.",
+  "6. Sita Ram by Krishna Das.",
+  "7. Iphone Ringtone Trap (Remix) by Jasser Labidi.",
+  "8. iPhone Ringtone -Special Trans Remix arr.- by アン・カルディア.",
+  "9. Classique by Adieu Aru.",
+  "10. Premada Oorali Title Song (From “Premada Oorali”) - (Version 2) by Sunaad Gowtham.",
+  "Chart data from Apple Music charts (India)."
  ],
  "author": "BubblesEdiy News Desk",
- "publishedAt": "2026-10-05T07:22:06.862Z",
- "updatedAt": "2026-10-05T07:22:06.862Z",
+ "publishedAt": "2026-10-05T07:28:27.556Z",
+ "updatedAt": "2026-10-05T07:28:27.556Z",
  "image": "",
  "keywords": [
   "music"
@@ -28,8 +28,8 @@
  "kind": "update",
  "aiAssisted": false,
  "source": {
-  "name": "Deezer charts",
-  "url": "https://www.deezer.com"
+  "name": "Apple Music charts (India)",
+  "url": "https://music.apple.com/in"
  },
  "status": "published"
 }
