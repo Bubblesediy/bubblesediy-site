@@ -1,0 +1,25 @@
+{
+ "id": "e2",
+ "title": "Why We Have Seasons: It Is the Tilt, Not the Distance",
+ "slug": "why-we-have-seasons",
+ "category": "Science",
+ "excerpt": "Many people believe seasons happen because Earth moves closer to and farther from the Sun. In fact Earth's orbit is nearly circular, and our planet is…",
+ "content": [
+  "Many people believe seasons happen because Earth moves closer to and farther from the Sun. In fact Earth's orbit is nearly circular, and our planet is slightly closer to the Sun in early January, during the northern winter.",
+  "The real cause is Earth's axial tilt of about 23.5 degrees. For part of the year the Northern Hemisphere leans toward the Sun, so sunlight arrives more directly and days are longer. That brings summer. Six months later it leans away, giving winter.",
+  "Near the equator the tilt matters less, which is why tropical places like Chennai see smaller temperature swings and are described more by wet and dry seasons than by hot and cold ones."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-03T08:00:00+05:30",
+ "updatedAt": "2026-10-03T08:00:00+05:30",
+ "image": "/images/science.svg",
+ "keywords": [
+  "earth",
+  "seasons",
+  "astronomy"
+ ],
+ "demo": false,
+ "kind": "explainer",
+ "aiAssisted": true,
+ "status": "published"
+}
