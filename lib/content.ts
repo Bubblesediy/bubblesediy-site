@@ -1,0 +1,11 @@
+import {ARTICLES} from "@/data/articles";import {CATS,AUTHORS} from "@/data/site";
+export const slugify=(s:string)=>s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+export const catSlug=(n:string)=>slugify(n);
+export const url=(a:{category:string;slug:string})=>`/news/${catSlug(a.category)}/${a.slug}`;
+export const byCat=(slug:string)=>ARTICLES.filter(a=>catSlug(a.category)===slug);
+export const byAuthor=(slug:string)=>ARTICLES.filter(a=>slugify(a.author)===slug);
+export const fmt=(d:string)=>new Date(d).toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric",timeZone:"Asia/Kolkata"});
+export const abs=(p:string,base:string)=>p.startsWith("http")?p:base+p;
+export const esc=(s:string)=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+export const live=()=>ARTICLES.filter(a=>!a.demo);
+export {ARTICLES,CATS,AUTHORS};
