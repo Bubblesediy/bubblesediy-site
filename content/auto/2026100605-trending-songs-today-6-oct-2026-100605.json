@@ -1,0 +1,35 @@
+{
+ "id": "a1791262827144431",
+ "title": "Trending songs today (6 Oct 2026)",
+ "slug": "trending-songs-today-6-oct-2026-100605",
+ "category": "Music",
+ "excerpt": "The ten most-played songs on Deezer charts today.",
+ "content": [
+  "1. Dracula (with JENNIE) by Tame Impala.",
+  "2. Boston by STELLA LEFTY.",
+  "3. Choosin' Texas by Ella Langley.",
+  "4. Be Her by Ella Langley.",
+  "5. I Knew It, I Knew You (From \"Toy Story 5\") by Taylor Swift.",
+  "6. Should I Stay or Should I Go (Remastered) by The Clash.",
+  "7. Be By You by Luke Combs.",
+  "8. Stargazing by Myles Smith.",
+  "9. Something To Lose by STELLA LEFTY.",
+  "10. BbY WOW by KAROL G.",
+  "Chart data from Deezer charts."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-06T05:00:27.144Z",
+ "updatedAt": "2026-10-06T05:00:27.144Z",
+ "image": "",
+ "keywords": [
+  "music"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "Deezer charts",
+  "url": "https://www.deezer.com"
+ },
+ "status": "published"
+}
