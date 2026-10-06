@@ -1,0 +1,33 @@
+{
+ "id": "a179130005166911",
+ "title": "Earthquakes of magnitude 4.5 or higher in the last 24 hours (6 Oct 2026)",
+ "slug": "earthquakes-of-magnitude-4-5-or-higher-in-the-last-24-hours-6-oct-2026-100615",
+ "category": "World",
+ "excerpt": "8 earthquakes of magnitude 4.5 or above were recorded worldwide in the past day.",
+ "content": [
+  "Magnitude 4.9: 48 km NNE of Semporna, Malaysia, 6 Oct, 6:41 pm IST.",
+  "Magnitude 4.9: 55 km ESE of Kokopo, Papua New Guinea, 6 Oct, 2:15 pm IST.",
+  "Magnitude 4.5: 60 km WNW of Colchani, Bolivia, 6 Oct, 12:24 pm IST.",
+  "Magnitude 4.7: 36 km WNW of Ollagüe, Chile, 6 Oct, 11:46 am IST.",
+  "Magnitude 4.9: State of Yap, Federated States of Micronesia, 6 Oct, 10:10 am IST.",
+  "Magnitude 4.6: Izu Islands, Japan region, 6 Oct, 9:58 am IST.",
+  "Magnitude 4.8: 86 km N of Ruteng, Indonesia, 6 Oct, 9:12 am IST.",
+  "Magnitude 4.6: 31 km S of Tezpur, India, 6 Oct, 4:23 am IST.",
+  "Data from the U.S. Geological Survey (public domain). Magnitudes can be revised."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-06T15:20:51.669Z",
+ "updatedAt": "2026-10-06T15:20:51.669Z",
+ "image": "",
+ "keywords": [
+  "world"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "USGS",
+  "url": "https://earthquake.usgs.gov"
+ },
+ "status": "published"
+}
