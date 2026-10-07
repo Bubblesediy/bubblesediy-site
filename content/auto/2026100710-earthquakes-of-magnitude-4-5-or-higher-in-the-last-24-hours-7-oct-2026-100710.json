@@ -1,0 +1,33 @@
+{
+ "id": "a1791368451592313",
+ "title": "Earthquakes of magnitude 4.5 or higher in the last 24 hours (7 Oct 2026)",
+ "slug": "earthquakes-of-magnitude-4-5-or-higher-in-the-last-24-hours-7-oct-2026-100710",
+ "category": "World",
+ "excerpt": "8 earthquakes of magnitude 4.5 or above were recorded worldwide in the past day.",
+ "content": [
+  "Magnitude 4.9: 80 km SW of El Arenal, Mexico, 7 Oct, 1:13 pm IST.",
+  "Magnitude 4.9: South Sandwich Islands region, 7 Oct, 10:09 am IST.",
+  "Magnitude 4.8: 132 km ENE of Tadine, New Caledonia, 7 Oct, 8:19 am IST.",
+  "Magnitude 4.6: Kuril Islands, 7 Oct, 7:09 am IST.",
+  "Magnitude 4.8: 57 km E of Petropavlovsk-Kamchatsky, Russia, 7 Oct, 6:00 am IST.",
+  "Magnitude 4.5: 37 km ESE of Iwaki, Japan, 7 Oct, 5:52 am IST.",
+  "Magnitude 4.7: Kermadec Islands, New Zealand, 7 Oct, 3:42 am IST.",
+  "Magnitude 4.9: 189 km SW of Abepura, Indonesia, 7 Oct, 3:26 am IST.",
+  "Data from the U.S. Geological Survey (public domain). Magnitudes can be revised."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-07T10:20:51.592Z",
+ "updatedAt": "2026-10-07T10:20:51.592Z",
+ "image": "",
+ "keywords": [
+  "world"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "USGS",
+  "url": "https://earthquake.usgs.gov"
+ },
+ "status": "published"
+}
