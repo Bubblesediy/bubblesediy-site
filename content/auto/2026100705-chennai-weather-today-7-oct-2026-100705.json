@@ -1,0 +1,28 @@
+{
+ "id": "a1791350451553977",
+ "title": "Chennai weather today (7 Oct 2026)",
+ "slug": "chennai-weather-today-7-oct-2026-100705",
+ "category": "Chennai",
+ "excerpt": "It is 32.4°C in Chennai now, with a high of 33°C expected today.",
+ "content": [
+  "Right now it is 32.4°C in Chennai, with relative humidity of 58% and wind of 8.9 km/h.",
+  "Today: a high of 33°C and a low of 28.1°C, with up to 12% chance of rain and 0.4 mm of rainfall expected.",
+  "Tomorrow: a high of 32.1°C and a low of 26.6°C.",
+  "Forecasts can change. For warnings, follow the India Meteorological Department. Weather data by Open-Meteo.com (CC BY 4.0)."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-07T05:20:51.553Z",
+ "updatedAt": "2026-10-07T05:20:51.553Z",
+ "image": "",
+ "keywords": [
+  "chennai"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "Open-Meteo (CC BY 4.0)",
+  "url": "https://open-meteo.com"
+ },
+ "status": "published"
+}
