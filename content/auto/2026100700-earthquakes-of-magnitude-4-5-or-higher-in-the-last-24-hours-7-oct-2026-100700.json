@@ -1,0 +1,33 @@
+{
+ "id": "a1791332451315834",
+ "title": "Earthquakes of magnitude 4.5 or higher in the last 24 hours (7 Oct 2026)",
+ "slug": "earthquakes-of-magnitude-4-5-or-higher-in-the-last-24-hours-7-oct-2026-100700",
+ "category": "World",
+ "excerpt": "8 earthquakes of magnitude 4.5 or above were recorded worldwide in the past day.",
+ "content": [
+  "Magnitude 4.8: 190 km SW of Abepura, Indonesia, 7 Oct, 3:26 am IST.",
+  "Magnitude 4.6: 14 km NE of Mataram, Indonesia, 7 Oct, 1:45 am IST.",
+  "Magnitude 4.5: 43 km WNW of Bengkulu, Indonesia, 7 Oct, 12:31 am IST.",
+  "Magnitude 5.5: 92 km NNW of Aleneva, Alaska, 7 Oct, 12:04 am IST.",
+  "Magnitude 4.9: 114 km SW of Turpan, China, 6 Oct, 11:45 pm IST.",
+  "Magnitude 4.8: 85 km ENE of Shikotan, Russia, 6 Oct, 11:17 pm IST.",
+  "Magnitude 5.1: 34 km NNW of Bāgeshwar, India, 6 Oct, 10:23 pm IST.",
+  "Magnitude 5.9: 264 km SSW of Severo-Kuril’sk, Russia, 6 Oct, 10:18 pm IST.",
+  "Data from the U.S. Geological Survey (public domain). Magnitudes can be revised."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-07T00:20:51.315Z",
+ "updatedAt": "2026-10-07T00:20:51.315Z",
+ "image": "",
+ "keywords": [
+  "world"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "USGS",
+  "url": "https://earthquake.usgs.gov"
+ },
+ "status": "published"
+}
