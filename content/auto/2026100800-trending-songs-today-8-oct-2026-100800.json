@@ -1,0 +1,35 @@
+{
+ "id": "a1791418851694868",
+ "title": "Trending songs today (8 Oct 2026)",
+ "slug": "trending-songs-today-8-oct-2026-100800",
+ "category": "Music",
+ "excerpt": "The ten most-played songs on Deezer charts today.",
+ "content": [
+  "1. Dracula (with JENNIE) by Tame Impala.",
+  "2. Boston by STELLA LEFTY.",
+  "3. Choosin' Texas by Ella Langley.",
+  "4. Be Her by Ella Langley.",
+  "5. hate that i made you love me by Ariana Grande.",
+  "6. I Knew It, I Knew You (From \"Toy Story 5\") by Taylor Swift.",
+  "7. BbY WOW by KAROL G.",
+  "8. drop dead by Olivia Rodrigo.",
+  "9. So Easy (To Fall In Love) by Olivia Dean.",
+  "10. Midnight Sun by Zara Larsson.",
+  "Chart data from Deezer charts."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-08T00:20:51.694Z",
+ "updatedAt": "2026-10-08T00:20:51.694Z",
+ "image": "",
+ "keywords": [
+  "music"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "Deezer charts",
+  "url": "https://www.deezer.com"
+ },
+ "status": "published"
+}
