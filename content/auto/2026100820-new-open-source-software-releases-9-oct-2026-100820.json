@@ -1,16 +1,16 @@
 {
- "id": "a179140445397038",
- "title": "New open-source software releases (8 Oct 2026)",
- "slug": "new-open-source-software-releases-8-oct-2026-100720",
+ "id": "a1791490853781853",
+ "title": "New open-source software releases (9 Oct 2026)",
+ "slug": "new-open-source-software-releases-9-oct-2026-100820",
  "category": "Technology",
  "excerpt": "1 well-known open-source projects published new versions in the last three days.",
  "content": [
-  "node v26.11.0 was released on 7 Oct.",
+  "node v26.11.1 was released on 8 Oct.",
   "Release dates come from each project's public GitHub releases page."
  ],
  "author": "BubblesEdiy News Desk",
- "publishedAt": "2026-10-07T20:20:53.970Z",
- "updatedAt": "2026-10-07T20:20:53.970Z",
+ "publishedAt": "2026-10-08T20:20:53.781Z",
+ "updatedAt": "2026-10-08T20:20:53.781Z",
  "image": "",
  "keywords": [
   "technology"
