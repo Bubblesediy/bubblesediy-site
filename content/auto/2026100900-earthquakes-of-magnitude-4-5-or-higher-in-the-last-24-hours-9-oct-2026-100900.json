@@ -1,0 +1,33 @@
+{
+ "id": "a1791505251604379",
+ "title": "Earthquakes of magnitude 4.5 or higher in the last 24 hours (9 Oct 2026)",
+ "slug": "earthquakes-of-magnitude-4-5-or-higher-in-the-last-24-hours-9-oct-2026-100900",
+ "category": "World",
+ "excerpt": "8 earthquakes of magnitude 4.5 or above were recorded worldwide in the past day.",
+ "content": [
+  "Magnitude 4.6: Izu Islands, Japan region, 9 Oct, 12:02 am IST.",
+  "Magnitude 4.8: 46 km N of Waingapu, Indonesia, 8 Oct, 11:36 pm IST.",
+  "Magnitude 4.7: 84 km WNW of Bengkulu, Indonesia, 8 Oct, 8:53 pm IST.",
+  "Magnitude 4.9: 113 km NW of Baa, Indonesia, 8 Oct, 7:41 pm IST.",
+  "Magnitude 5.1: 236 km E of Levuka, Fiji, 8 Oct, 3:37 pm IST.",
+  "Magnitude 6.3: 102 km NE of Norsup, Vanuatu, 8 Oct, 2:30 pm IST.",
+  "Magnitude 5.5: 17 km SW of Burias, Philippines, 8 Oct, 1:37 pm IST.",
+  "Magnitude 4.6: 61 km W of Banda Aceh, Indonesia, 8 Oct, 1:15 pm IST.",
+  "Data from the U.S. Geological Survey (public domain). Magnitudes can be revised."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-09T00:20:51.604Z",
+ "updatedAt": "2026-10-09T00:20:51.604Z",
+ "image": "",
+ "keywords": [
+  "world"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "USGS",
+  "url": "https://earthquake.usgs.gov"
+ },
+ "status": "published"
+}
