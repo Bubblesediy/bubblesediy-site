@@ -1,0 +1,33 @@
+{
+ "id": "a1791627651634207",
+ "title": "Earthquakes of magnitude 4.5 or higher in the last 24 hours (10 Oct 2026)",
+ "slug": "earthquakes-of-magnitude-4-5-or-higher-in-the-last-24-hours-10-oct-2026-101010",
+ "category": "World",
+ "excerpt": "8 earthquakes of magnitude 4.5 or above were recorded worldwide in the past day.",
+ "content": [
+  "Magnitude 4.5: 61 km N of Hihifo, Tonga, 10 Oct, 2:08 pm IST.",
+  "Magnitude 4.6: 6 km SSE of Llano de Piedra, Panama, 10 Oct, 12:43 pm IST.",
+  "Magnitude 4.5: 10 km SE of Pedasí, Panama, 10 Oct, 12:17 pm IST.",
+  "Magnitude 4.9: 26 km SSE of Pedasí, Panama, 10 Oct, 12:00 pm IST.",
+  "Magnitude 4.7: 26 km S of Pedasí, Panama, 10 Oct, 11:57 am IST.",
+  "Magnitude 4.9: 10 km SSW of Cañas, Panama, 10 Oct, 11:48 am IST.",
+  "Magnitude 4.5: 25 km SSE of Pedasí, Panama, 10 Oct, 11:46 am IST.",
+  "Magnitude 4.5: 6 km WSW of Filadelfia, Colombia, 10 Oct, 11:15 am IST.",
+  "Data from the U.S. Geological Survey (public domain). Magnitudes can be revised."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-10T10:20:51.634Z",
+ "updatedAt": "2026-10-10T10:20:51.634Z",
+ "image": "",
+ "keywords": [
+  "world"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "USGS",
+  "url": "https://earthquake.usgs.gov"
+ },
+ "status": "published"
+}
