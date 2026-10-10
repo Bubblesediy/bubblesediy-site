@@ -1,0 +1,33 @@
+{
+ "id": "a1791609651651927",
+ "title": "Earthquakes of magnitude 4.5 or higher in the last 24 hours (10 Oct 2026)",
+ "slug": "earthquakes-of-magnitude-4-5-or-higher-in-the-last-24-hours-10-oct-2026-101005",
+ "category": "World",
+ "excerpt": "8 earthquakes of magnitude 4.5 or above were recorded worldwide in the past day.",
+ "content": [
+  "Magnitude 4.5: 9 km WNW of Flores, Panama, 10 Oct, 10:03 am IST.",
+  "Magnitude 6: 7 km N of La Tronosa, Panama, 10 Oct, 9:44 am IST.",
+  "Magnitude 5.3: 41 km NNE of Yigo Village, Guam, 10 Oct, 9:28 am IST.",
+  "Magnitude 4.7: 8 km N of La Tronosa, Panama, 10 Oct, 9:26 am IST.",
+  "Magnitude 4.5: 18 km SSE of Río Grande, Panama, 10 Oct, 8:13 am IST.",
+  "Magnitude 5.1: 1 km NNE of Tonosí, Panama, 10 Oct, 7:56 am IST.",
+  "Magnitude 5.1: 133 km WNW of Ternate, Indonesia, 10 Oct, 7:30 am IST.",
+  "Magnitude 4.6: 10 km S of Río Grande, Panama, 10 Oct, 7:05 am IST.",
+  "Data from the U.S. Geological Survey (public domain). Magnitudes can be revised."
+ ],
+ "author": "BubblesEdiy News Desk",
+ "publishedAt": "2026-10-10T05:20:51.651Z",
+ "updatedAt": "2026-10-10T05:20:51.651Z",
+ "image": "",
+ "keywords": [
+  "world"
+ ],
+ "demo": false,
+ "kind": "update",
+ "aiAssisted": false,
+ "source": {
+  "name": "USGS",
+  "url": "https://earthquake.usgs.gov"
+ },
+ "status": "published"
+}
